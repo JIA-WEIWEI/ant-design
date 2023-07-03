@@ -13,6 +13,9 @@ const App: React.FC = () => (
       {
         title: <a href="">Application List</a>,
       },
+            {
+        title: <a href="">Weifu jia </a>,
+      },
       {
         title: 'An Application',
       },
